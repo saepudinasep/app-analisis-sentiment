@@ -1,0 +1,4 @@
+{
+    "accuracy": 0.84,
+    "classification_report": "              precision    recall  f1-score   support\n\n     positif       0.82      0.98      0.90       356\n      netral       0.86      0.82      0.84       131\n     negatif       0.96      0.42      0.58       113\n\n    accuracy                           0.84       600\n   macro avg       0.88      0.74      0.77       600\nweighted avg       0.86      0.84      0.82       600\n"
+}
